@@ -1,0 +1,38 @@
+{
+  "title": "reciclaje",
+  "date": "10/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "reciclaje.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 14,
+  "totalSize": 768326,
+  "files": [
+    "bolsas-resized.jpg",
+    "botella1-resized.jpg",
+    "favicon.ico",
+    "hierro__1_.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "madera-resized.jpg",
+    "papel-resized.jpg",
+    "papeld-resized.jpg",
+    "pilas-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "reciclaje.jclic",
+    "reciclaje.jclic.js",
+    "tapas1-resized.jpg",
+    "vidrio.jpg"
+  ]
+}
